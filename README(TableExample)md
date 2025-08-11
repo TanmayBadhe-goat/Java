@@ -1,0 +1,34 @@
+# Table
+A simple Java program which creates table of the given number
+
+## Features
+- Creates table
+
+## Tech Stack
+- Java
+- Loops
+
+## How to Run
+1. Clone this repository
+2. Compile: javac TableExample.java
+3. Run: java TableExample
+
+## Output
+
+Enter number: 3
+3 * 1 = 3
+3 * 2 = 6
+3 * 3 = 9
+3 * 4 = 12
+3 * 5 = 15
+3 * 6 = 18
+3 * 7 = 21
+3 * 8 = 24
+3 * 9 = 27
+3 * 10 = 30
+
+=== Code Execution Successful ===
+
+
+## Author
+Tanmay Badhe
