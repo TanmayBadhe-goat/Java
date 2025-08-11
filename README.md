@@ -16,8 +16,5 @@ A simple Java console game where the player guesses the color chosen by the comp
 2. Compile: javac ColorGuesser.java
 3. Run: java ColorGuesser
 
-## Output
-![Screenshot](link-to-screenshot-if-any)
-
 ## Author
 Tanmay Badhe
