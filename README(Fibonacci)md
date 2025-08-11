@@ -1,0 +1,23 @@
+# Fibonacci Series 
+A simple Java program which creates fibonacchi series
+
+## Features
+- Creates Fibonacci Series
+
+## Tech Stack
+- Java
+- Loops
+- Arrays
+
+## How to Run
+1. Clone this repository
+2. Compile: javac Fibonacci.java
+3. Run: java Fibonacci
+
+## Output
+
+
+
+
+## Author
+Tanmay Badhe
