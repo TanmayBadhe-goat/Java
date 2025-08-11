@@ -18,8 +18,24 @@ A simple Java console game where the player guesses the color chosen by the comp
 
 ## Output
 
-0 1 1 2 3 5 8 13 21 34
-=== Code Execution Successful ===
+Welcome to the Color Guesser Game!
+Try to guess the color I'm thinking of.
+Available colors: 
+red blue green yellow purple orange pink black white brown 
+
+Enter your guess: red
+Correct! The color was "red".
+You guessed it in 1 attempts.
+_________________________________________________________________________________
+
+Welcome to the Color Guesser Game!
+Try to guess the color I'm thinking of.
+Available colors: 
+red blue green yellow purple orange pink black white brown 
+
+Enter your guess: white
+Nope! That's not it. Try again.
+Enter your guess: 
 
 ## Author
 Tanmay Badhe
